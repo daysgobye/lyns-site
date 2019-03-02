@@ -41,7 +41,7 @@ class Footer extends Component {
                   </label>
                   <input
                     type="email"
-                    placeholder="email"
+                    placeholder="Email Address"
                     name="EMAIL"
                     className="required email"
                     id="mce-EMAIL"

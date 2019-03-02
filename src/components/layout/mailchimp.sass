@@ -1,3 +1,4 @@
+@import '../vars.sass'
 #mc_embed_signup 
   display: flex
   justify-content: space-between
@@ -23,13 +24,16 @@
           padding-left: 10px
           font-size: 1em
           letter-spacing: .05em
+          &::placeholder
+            font-family: $mainfont
+            color: #d7d7e7
       .clear
         display: flex
         margin-left: .25em
         font-size: .75em
         input 
           padding: .25em .55em
-          height: 60px
+          height: 55px
           width: 7em
           border: 1px solid rgb(198,197,181)
           color: rgb(198,197,181)
@@ -42,3 +46,4 @@
           &:hover
             color: white
             background-position: 0 100%
+        

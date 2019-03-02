@@ -26,14 +26,15 @@ class contact extends Component {
               <div className="contact__col col__swap">
                 <div className="contact__col__left snap__full">
                   <h3>get in touch</h3>
+                  <p>{data.contactPhonenumber}</p>
                   <p>{data.contactEmail}</p>
                   <div
                     className="contact__col__left__address"
                     dangerouslySetInnerHTML={{
                       __html: data.address.childContentfulRichText.html
                     }}
-                    />
-                    <p>{data.contactPhonenumber}</p>
+                  />
+
                 </div>
                 <div className="contact__col__right snap__full">
                   <Conform email={data.contactEmail}>
@@ -60,7 +61,7 @@ class contact extends Component {
                     </label>
                     <label>
                       Message *
-                      <textarea name="message" id="" cols="30" rows="10" />
+                      <textarea name="message" id="" cols="30" rows="4" />
                     </label>
                     <button type="submit" className="submit">
                       {" "}

@@ -1385,12 +1385,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2019-03-02T02:36:42.918Z",
+      "buildTime": "2019-03-02T04:30:05.324Z",
       "id": "Site",
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "b6578594f2dbeeb45d76c17d2bbe319e",
+        "contentDigest": "34260ef2163597d84da75ae535965d9c",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -1400,7 +1400,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "92cf42dd90a15de96b1d36f9f545d287",
+        "contentDigest": "1e4c2197bda714803689b8ce574feed4",
         "type": "Directory",
         "description": "Directory \"src/images\"",
         "owner": "gatsby-source-filesystem"
@@ -1412,7 +1412,7 @@
       "size": 748,
       "prettySize": "748 B",
       "modifiedTime": "2019-02-18T06:40:28.000Z",
-      "accessTime": "2019-03-02T02:37:54.000Z",
+      "accessTime": "2019-03-02T04:30:45.000Z",
       "changeTime": "2019-02-25T03:13:35.000Z",
       "birthTime": "2019-02-01T22:16:57.000Z",
       "root": "/",
@@ -1430,11 +1430,11 @@
       "blksize": 4096,
       "ino": 13417700,
       "blocks": 0,
-      "atimeMs": 1551494274000,
+      "atimeMs": 1551501045000,
       "mtimeMs": 1550472028000,
       "ctimeMs": 1551064415000,
       "birthtimeMs": 1549059417000,
-      "atime": "2019-03-02T02:37:54.000Z",
+      "atime": "2019-03-02T04:30:45.000Z",
       "mtime": "2019-02-18T06:40:28.000Z",
       "ctime": "2019-02-25T03:13:35.000Z",
       "birthtime": "2019-02-01T22:16:57.000Z"
@@ -2435,154 +2435,17 @@
       "id": "510f3858-1c25-540a-b2d5-0a896920b393",
       "contentful_id": "5axHMd8GFAKD8zuyaWNGjq",
       "createdAt": "2019-02-25T02:39:11.858Z",
-      "updatedAt": "2019-02-25T05:59:42.676Z",
+      "updatedAt": "2019-03-02T03:03:36.321Z",
       "parent": "Home",
       "children": [
         "e775d363-1d4f-58ac-8cb7-3381780470ca"
       ],
       "internal": {
         "type": "ContentfulHome",
-        "contentDigest": "323966e13d074302af821152f58d015e",
+        "contentDigest": "cebbc7ebdbf52d3bea24fdcb0468d8f9",
         "owner": "gatsby-source-contentful"
       },
       "node_locale": "en-US"
-    },
-    "e775d363-1d4f-58ac-8cb7-3381780470ca": {
-      "data": {},
-      "content": [
-        {
-          "data": {},
-          "content": [
-            {
-              "data": {},
-              "marks": [],
-              "value": "",
-              "nodeType": "text"
-            }
-          ],
-          "nodeType": "paragraph"
-        },
-        {
-          "data": {},
-          "content": [
-            {
-              "data": {},
-              "marks": [],
-              "value": "In my memoir, ",
-              "nodeType": "text"
-            },
-            {
-              "data": {},
-              "marks": [
-                {
-                  "type": "italic"
-                }
-              ],
-              "value": "We Were Smiths: A Memoir",
-              "nodeType": "text"
-            },
-            {
-              "data": {},
-              "marks": [],
-              "value": ", I reveal the consequences of leaving the Mormon Church as a descendant of Joseph Smith, the Mormon Church founder and prophet.  Why did my sister and I feel compelled to leave when so much was at stake? My family was considered Mormon royalty, but it was vulnerable to teenage rebellion, divorce, and substance abuse buried under the surface of our family’s perfect veneer.   ",
-              "nodeType": "text"
-            }
-          ],
-          "nodeType": "paragraph"
-        },
-        {
-          "data": {},
-          "content": [
-            {
-              "data": {},
-              "marks": [
-                {
-                  "type": "italic"
-                }
-              ],
-              "value": "We Were Smiths",
-              "nodeType": "text"
-            },
-            {
-              "data": {},
-              "marks": [],
-              "value": ":",
-              "nodeType": "text"
-            },
-            {
-              "data": {},
-              "marks": [
-                {
-                  "type": "italic"
-                }
-              ],
-              "value": " A Memoir",
-              "nodeType": "text"
-            },
-            {
-              "data": {},
-              "marks": [],
-              "value": " chronicles the divergent paths my sister and I took in abandoning the Mormon Church; me to Manhattan, and my sister to California. While close allies in our family of eleven, we rebelled in completely separate ways but remained close despite our contrasting lifestyles. My sister’s path took her from singing for drinks in Blues dives in San Francisco, to looking for love in the violent Hell’s Angels Long Beach posse.  Meanwhile, I was breaking the “boys only rule “ by launching the new Personal Computer with IBM but spending my nights caught in the spell of Studio 54’s coated cocaine scene.  We both gain our freedom from the Church but at very different costs. ",
-              "nodeType": "text"
-            }
-          ],
-          "nodeType": "paragraph"
-        },
-        {
-          "data": {},
-          "content": [
-            {
-              "data": {},
-              "marks": [],
-              "value": "Literary agent, Don Fehr, Senior Vice President at Trident Media in NYC, represents me.  I hope to finish my revisions and complete We Were Smiths: ",
-              "nodeType": "text"
-            },
-            {
-              "data": {},
-              "marks": [
-                {
-                  "type": "italic"
-                }
-              ],
-              "value": "A Memoir",
-              "nodeType": "text"
-            },
-            {
-              "data": {},
-              "marks": [],
-              "value": " sometime in 2019.\n",
-              "nodeType": "text"
-            }
-          ],
-          "nodeType": "paragraph"
-        },
-        {
-          "data": {},
-          "content": [
-            {
-              "data": {},
-              "marks": [],
-              "value": "\n",
-              "nodeType": "text"
-            }
-          ],
-          "nodeType": "paragraph"
-        }
-      ],
-      "nodeType": "document",
-      "id": "e775d363-1d4f-58ac-8cb7-3381780470ca",
-      "parent": "510f3858-1c25-540a-b2d5-0a896920b393",
-      "children": [
-        "74d73256-d7f4-53d0-8ece-84928093386b"
-      ],
-      "mainContentBlock": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"In my memoir, \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"We Were Smiths: A Memoir\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", I reveal the consequences of leaving the Mormon Church as a descendant of Joseph Smith, the Mormon Church founder and prophet.  Why did my sister and I feel compelled to leave when so much was at stake? My family was considered Mormon royalty, but it was vulnerable to teenage rebellion, divorce, and substance abuse buried under the surface of our family’s perfect veneer.   \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"We Were Smiths\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\":\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\" A Memoir\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" chronicles the divergent paths my sister and I took in abandoning the Mormon Church; me to Manhattan, and my sister to California. While close allies in our family of eleven, we rebelled in completely separate ways but remained close despite our contrasting lifestyles. My sister’s path took her from singing for drinks in Blues dives in San Francisco, to looking for love in the violent Hell’s Angels Long Beach posse.  Meanwhile, I was breaking the “boys only rule “ by launching the new Personal Computer with IBM but spending my nights caught in the spell of Studio 54’s coated cocaine scene.  We both gain our freedom from the Church but at very different costs. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Literary agent, Don Fehr, Senior Vice President at Trident Media in NYC, represents me.  I hope to finish my revisions and complete We Were Smiths: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"A Memoir\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" sometime in 2019.\\n\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\\n\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}",
-      "internal": {
-        "type": "contentfulHomeMainContentBlockRichTextNode",
-        "mediaType": "text/richtext",
-        "content": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"In my memoir, \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"We Were Smiths: A Memoir\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", I reveal the consequences of leaving the Mormon Church as a descendant of Joseph Smith, the Mormon Church founder and prophet.  Why did my sister and I feel compelled to leave when so much was at stake? My family was considered Mormon royalty, but it was vulnerable to teenage rebellion, divorce, and substance abuse buried under the surface of our family’s perfect veneer.   \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"We Were Smiths\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\":\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\" A Memoir\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" chronicles the divergent paths my sister and I took in abandoning the Mormon Church; me to Manhattan, and my sister to California. While close allies in our family of eleven, we rebelled in completely separate ways but remained close despite our contrasting lifestyles. My sister’s path took her from singing for drinks in Blues dives in San Francisco, to looking for love in the violent Hell’s Angels Long Beach posse.  Meanwhile, I was breaking the “boys only rule “ by launching the new Personal Computer with IBM but spending my nights caught in the spell of Studio 54’s coated cocaine scene.  We both gain our freedom from the Church but at very different costs. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Literary agent, Don Fehr, Senior Vice President at Trident Media in NYC, represents me.  I hope to finish my revisions and complete We Were Smiths: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"A Memoir\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" sometime in 2019.\\n\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\\n\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}",
-        "contentDigest": "5d870cf4b3b2ed6294f7d02c4ff79411",
-        "owner": "gatsby-source-contentful"
-      }
     },
     "00d0a9c7-94c0-5b72-a1b5-bc7294ca5168": {
       "id": "00d0a9c7-94c0-5b72-a1b5-bc7294ca5168",
@@ -2870,7 +2733,7 @@
       "id": "67f3dc84-9774-5c08-aa8a-fcd5e583d32a",
       "contentful_id": "1U94ndBvERYjtp2jYEaAVl",
       "createdAt": "2019-02-25T02:39:14.862Z",
-      "updatedAt": "2019-02-25T06:42:56.731Z",
+      "updatedAt": "2019-03-02T04:04:17.209Z",
       "parent": "memoir",
       "children": [
         "5a8177dc-df73-5219-a76d-b94a2682d922",
@@ -2878,7 +2741,7 @@
       ],
       "internal": {
         "type": "ContentfulMemoir",
-        "contentDigest": "462a0a6d4996372a346b6e0f83faf3e1",
+        "contentDigest": "94ba10f0da82e113e2fd8291eb59bd0d",
         "owner": "gatsby-source-contentful"
       },
       "node_locale": "en-US"
@@ -2889,12 +2752,12 @@
       "parent": null,
       "children": [],
       "file": {
-        "url": "//images.ctfassets.net/buawi7gya7qk/3TzW4dKJDpnhHzG6IsqDWK/8f7831521125ac36410c4bd6a789ad25/DSC_5824.jpg",
+        "url": "//images.ctfassets.net/buawi7gya7qk/3TzW4dKJDpnhHzG6IsqDWK/181ce2730e77171b575e235c24837928/DSC_5824.jpg",
         "details": {
-          "size": 48381,
+          "size": 60460,
           "image": {
             "width": 500,
-            "height": 517
+            "height": 749
           }
         },
         "fileName": "DSC_5824.jpg",
@@ -2905,7 +2768,7 @@
       "node_locale": "en-US",
       "internal": {
         "type": "ContentfulAsset",
-        "contentDigest": "f4b9a9e6cec9f2dc60ce53331df6401e",
+        "contentDigest": "6ff7ffeabffd10488d177c8efbd42947",
         "owner": "gatsby-source-contentful"
       }
     },
@@ -3299,17 +3162,6 @@
         "owner": "gatsby-source-contentful"
       }
     },
-    "74d73256-d7f4-53d0-8ece-84928093386b": {
-      "id": "74d73256-d7f4-53d0-8ece-84928093386b",
-      "children": [],
-      "parent": "e775d363-1d4f-58ac-8cb7-3381780470ca",
-      "internal": {
-        "content": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"In my memoir, \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"We Were Smiths: A Memoir\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", I reveal the consequences of leaving the Mormon Church as a descendant of Joseph Smith, the Mormon Church founder and prophet.  Why did my sister and I feel compelled to leave when so much was at stake? My family was considered Mormon royalty, but it was vulnerable to teenage rebellion, divorce, and substance abuse buried under the surface of our family’s perfect veneer.   \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"We Were Smiths\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\":\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\" A Memoir\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" chronicles the divergent paths my sister and I took in abandoning the Mormon Church; me to Manhattan, and my sister to California. While close allies in our family of eleven, we rebelled in completely separate ways but remained close despite our contrasting lifestyles. My sister’s path took her from singing for drinks in Blues dives in San Francisco, to looking for love in the violent Hell’s Angels Long Beach posse.  Meanwhile, I was breaking the “boys only rule “ by launching the new Personal Computer with IBM but spending my nights caught in the spell of Studio 54’s coated cocaine scene.  We both gain our freedom from the Church but at very different costs. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Literary agent, Don Fehr, Senior Vice President at Trident Media in NYC, represents me.  I hope to finish my revisions and complete We Were Smiths: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"A Memoir\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" sometime in 2019.\\n\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\\n\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}",
-        "type": "ContentfulRichText",
-        "contentDigest": "3a6cf6916f3baff431c382baa341b797",
-        "owner": "@contentful/gatsby-transformer-contentful-richtext"
-      }
-    },
     "278705f1-4c96-509e-af40-656a0f138d76": {
       "id": "278705f1-4c96-509e-af40-656a0f138d76",
       "children": [],
@@ -3508,272 +3360,18 @@
         "owner": "gatsby-source-contentful"
       }
     },
-    "5a8177dc-df73-5219-a76d-b94a2682d922": {
-      "data": {},
-      "content": [
-        {
-          "data": {},
-          "content": [
-            {
-              "data": {},
-              "marks": [],
-              "value": "",
-              "nodeType": "text"
-            }
-          ],
-          "nodeType": "heading-2"
-        },
-        {
-          "data": {},
-          "content": [
-            {
-              "data": {},
-              "marks": [],
-              "value": "We Were Smiths: A Memoir",
-              "nodeType": "text"
-            }
-          ],
-          "nodeType": "heading-2"
-        },
-        {
-          "data": {},
-          "content": [
-            {
-              "data": {},
-              "marks": [],
-              "value": "",
-              "nodeType": "text"
-            }
-          ],
-          "nodeType": "paragraph"
-        }
-      ],
-      "nodeType": "document",
-      "id": "5a8177dc-df73-5219-a76d-b94a2682d922",
-      "parent": "67f3dc84-9774-5c08-aa8a-fcd5e583d32a",
-      "children": [
-        "9e1a4c7e-ec6b-53cd-8001-1b29e726b873"
-      ],
-      "heroText": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-2\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"We Were Smiths: A Memoir\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-2\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}",
-      "internal": {
-        "type": "contentfulMemoirHeroTextRichTextNode",
-        "mediaType": "text/richtext",
-        "content": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-2\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"We Were Smiths: A Memoir\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-2\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}",
-        "contentDigest": "a14b4f3e914d93f1a298294684d08fc3",
-        "owner": "gatsby-source-contentful"
-      }
-    },
-    "9e661bc6-4c7c-5d19-855d-a5a3a9acce57": {
-      "data": {},
-      "content": [
-        {
-          "data": {},
-          "content": [
-            {
-              "data": {},
-              "marks": [],
-              "value": "",
-              "nodeType": "text"
-            }
-          ],
-          "nodeType": "paragraph"
-        },
-        {
-          "data": {},
-          "content": [
-            {
-              "data": {},
-              "content": [
-                {
-                  "data": {},
-                  "marks": [
-                    {
-                      "type": "italic"
-                    }
-                  ],
-                  "value": "We Were Smiths",
-                  "nodeType": "text"
-                },
-                {
-                  "data": {},
-                  "marks": [],
-                  "value": ": ",
-                  "nodeType": "text"
-                },
-                {
-                  "data": {},
-                  "marks": [
-                    {
-                      "type": "italic"
-                    }
-                  ],
-                  "value": "A Memoir",
-                  "nodeType": "text"
-                },
-                {
-                  "data": {},
-                  "marks": [],
-                  "value": " is a unique, insider account of growing up as royalty in the Mormon Church, where lineage and family birthright define one’s status and importance. My great-great-grandfather was one of the few descendants of Joseph Smith to come west as a young orphan with Brigham Young, making my family a rarity in Utah who can claim a connection to the Church’s original founder and prophet.",
-                  "nodeType": "text"
-                }
-              ],
-              "nodeType": "paragraph"
-            },
-            {
-              "data": {},
-              "content": [
-                {
-                  "data": {},
-                  "marks": [
-                    {
-                      "type": "italic"
-                    }
-                  ],
-                  "value": "We Were Smiths",
-                  "nodeType": "text"
-                },
-                {
-                  "data": {},
-                  "marks": [],
-                  "value": ": ",
-                  "nodeType": "text"
-                },
-                {
-                  "data": {},
-                  "marks": [
-                    {
-                      "type": "italic"
-                    }
-                  ],
-                  "value": "A Memoir",
-                  "nodeType": "text"
-                },
-                {
-                  "data": {},
-                  "marks": [],
-                  "value": " will appeal to readers who enjoy pulling back the covers to see the dramatic  truth inside of a family collapsing under the weight of this unique Mormon legacy and how they implode and disperse, both physically and emotionally, from each other in the wake of an explosive family secret. ",
-                  "nodeType": "text"
-                }
-              ],
-              "nodeType": "paragraph"
-            },
-            {
-              "data": {},
-              "content": [
-                {
-                  "data": {},
-                  "marks": [],
-                  "value": "This first-person account details how two sisters break away from Church and family, in wildly different ways, fleeing Utah and everything they’ve known to chase their dreams.   Taking place  in Utah, California, and Manhattan,  I recreate, from my sister’s and my own extensive journals, a vivid picture of their vastly different and, sometimes similar, struggles to survive outside the Mormon faith and culture.",
-                  "nodeType": "text"
-                }
-              ],
-              "nodeType": "paragraph"
-            },
-            {
-              "data": {},
-              "content": [
-                {
-                  "data": {},
-                  "marks": [],
-                  "value": "I divulge the family’s hidden flaws and secrets—alcoholism, bulimia, sexual abuse and suicide—assessing their impact on the family’s eventual dissolution. I also offer an insider’s perspective on how Mormon belief systems contributed to this fragmentation, to create the split between faithful Mormons and shunned Apostates and their struggle to somehow remain Smiths, a clan with fierce loyalties and love for each other.  I try to answer the question: Is it possible to transcend religious barriers and belief systems and retain a sense of family identity and belonging?  ",
-                  "nodeType": "text"
-                }
-              ],
-              "nodeType": "paragraph"
-            },
-            {
-              "data": {},
-              "content": [
-                {
-                  "data": {},
-                  "marks": [],
-                  "value": "At its heart, this is also a story of truth transforming a family as they explore the limits and exceptions of forgiveness, relinquishing old definitions of family, even God, in the attempt to reconcile as a family under a new, more generous and tolerant umbrella called the Smith family.  ",
-                  "nodeType": "text"
-                }
-              ],
-              "nodeType": "paragraph"
-            },
-            {
-              "data": {},
-              "content": [
-                {
-                  "data": {},
-                  "marks": [
-                    {
-                      "type": "italic"
-                    }
-                  ],
-                  "value": "We Were Smiths",
-                  "nodeType": "text"
-                },
-                {
-                  "data": {},
-                  "marks": [],
-                  "value": ": ",
-                  "nodeType": "text"
-                },
-                {
-                  "data": {},
-                  "marks": [
-                    {
-                      "type": "italic"
-                    }
-                  ],
-                  "value": "A Memoir",
-                  "nodeType": "text"
-                },
-                {
-                  "data": {},
-                  "marks": [],
-                  "value": " mines the emotionally rich territory of memoirs such as Educated by Tara Westover, Leaving the Saints by Martha Beck and Jon Krakauer’s Under the Banner of Heaven, exploring the pitfalls of legacy, religion, identity, and the costs of freedom.",
-                  "nodeType": "text"
-                }
-              ],
-              "nodeType": "paragraph"
-            }
-          ],
-          "nodeType": "blockquote"
-        },
-        {
-          "data": {},
-          "content": [
-            {
-              "data": {},
-              "marks": [],
-              "value": "",
-              "nodeType": "text"
-            }
-          ],
-          "nodeType": "paragraph"
-        }
-      ],
-      "nodeType": "document",
-      "id": "9e661bc6-4c7c-5d19-855d-a5a3a9acce57",
-      "parent": "67f3dc84-9774-5c08-aa8a-fcd5e583d32a",
-      "children": [
-        "a89d68f0-f3c2-5a3f-87ed-c852fe9cdcc3"
-      ],
-      "mainContent": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"We Were Smiths\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\": \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"A Memoir\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" is a unique, insider account of growing up as royalty in the Mormon Church, where lineage and family birthright define one’s status and importance. My great-great-grandfather was one of the few descendants of Joseph Smith to come west as a young orphan with Brigham Young, making my family a rarity in Utah who can claim a connection to the Church’s original founder and prophet.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"We Were Smiths\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\": \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"A Memoir\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" will appeal to readers who enjoy pulling back the covers to see the dramatic  truth inside of a family collapsing under the weight of this unique Mormon legacy and how they implode and disperse, both physically and emotionally, from each other in the wake of an explosive family secret. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"This first-person account details how two sisters break away from Church and family, in wildly different ways, fleeing Utah and everything they’ve known to chase their dreams.   Taking place  in Utah, California, and Manhattan,  I recreate, from my sister’s and my own extensive journals, a vivid picture of their vastly different and, sometimes similar, struggles to survive outside the Mormon faith and culture.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"I divulge the family’s hidden flaws and secrets—alcoholism, bulimia, sexual abuse and suicide—assessing their impact on the family’s eventual dissolution. I also offer an insider’s perspective on how Mormon belief systems contributed to this fragmentation, to create the split between faithful Mormons and shunned Apostates and their struggle to somehow remain Smiths, a clan with fierce loyalties and love for each other.  I try to answer the question: Is it possible to transcend religious barriers and belief systems and retain a sense of family identity and belonging?  \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"At its heart, this is also a story of truth transforming a family as they explore the limits and exceptions of forgiveness, relinquishing old definitions of family, even God, in the attempt to reconcile as a family under a new, more generous and tolerant umbrella called the Smith family.  \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"We Were Smiths\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\": \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"A Memoir\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" mines the emotionally rich territory of memoirs such as Educated by Tara Westover, Leaving the Saints by Martha Beck and Jon Krakauer’s Under the Banner of Heaven, exploring the pitfalls of legacy, religion, identity, and the costs of freedom.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"blockquote\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}",
-      "internal": {
-        "type": "contentfulMemoirMainContentRichTextNode",
-        "mediaType": "text/richtext",
-        "content": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"We Were Smiths\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\": \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"A Memoir\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" is a unique, insider account of growing up as royalty in the Mormon Church, where lineage and family birthright define one’s status and importance. My great-great-grandfather was one of the few descendants of Joseph Smith to come west as a young orphan with Brigham Young, making my family a rarity in Utah who can claim a connection to the Church’s original founder and prophet.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"We Were Smiths\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\": \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"A Memoir\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" will appeal to readers who enjoy pulling back the covers to see the dramatic  truth inside of a family collapsing under the weight of this unique Mormon legacy and how they implode and disperse, both physically and emotionally, from each other in the wake of an explosive family secret. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"This first-person account details how two sisters break away from Church and family, in wildly different ways, fleeing Utah and everything they’ve known to chase their dreams.   Taking place  in Utah, California, and Manhattan,  I recreate, from my sister’s and my own extensive journals, a vivid picture of their vastly different and, sometimes similar, struggles to survive outside the Mormon faith and culture.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"I divulge the family’s hidden flaws and secrets—alcoholism, bulimia, sexual abuse and suicide—assessing their impact on the family’s eventual dissolution. I also offer an insider’s perspective on how Mormon belief systems contributed to this fragmentation, to create the split between faithful Mormons and shunned Apostates and their struggle to somehow remain Smiths, a clan with fierce loyalties and love for each other.  I try to answer the question: Is it possible to transcend religious barriers and belief systems and retain a sense of family identity and belonging?  \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"At its heart, this is also a story of truth transforming a family as they explore the limits and exceptions of forgiveness, relinquishing old definitions of family, even God, in the attempt to reconcile as a family under a new, more generous and tolerant umbrella called the Smith family.  \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"We Were Smiths\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\": \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"A Memoir\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" mines the emotionally rich territory of memoirs such as Educated by Tara Westover, Leaving the Saints by Martha Beck and Jon Krakauer’s Under the Banner of Heaven, exploring the pitfalls of legacy, religion, identity, and the costs of freedom.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"blockquote\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}",
-        "contentDigest": "70a91df7d08a4ab98a31618ef4c8e882",
-        "owner": "gatsby-source-contentful"
-      }
-    },
     "181d4b10-6d69-5b5e-88f3-b18d0ff60991": {
       "contentful_id": "7KoJHWOXZoS2TBCJGbpfRY",
       "id": "181d4b10-6d69-5b5e-88f3-b18d0ff60991",
       "parent": null,
       "children": [],
       "file": {
-        "url": "//images.ctfassets.net/buawi7gya7qk/7KoJHWOXZoS2TBCJGbpfRY/c4e636b457fbcd223f0bf864ccf89bfe/lyns_fixed.jpg",
+        "url": "//images.ctfassets.net/buawi7gya7qk/7KoJHWOXZoS2TBCJGbpfRY/ade3108123a41c5f31c0bc16b743e583/lyns_fixed.jpg",
         "details": {
-          "size": 86447,
+          "size": 90302,
           "image": {
-            "width": 1778,
-            "height": 1000
+            "width": 1856,
+            "height": 1005
           }
         },
         "fileName": "lyns_fixed.jpg",
@@ -3784,7 +3382,7 @@
       "node_locale": "en-US",
       "internal": {
         "type": "ContentfulAsset",
-        "contentDigest": "3954aff835700dd02a52250a1774834d",
+        "contentDigest": "f6e28e12b4bfdb4ed76f37ddc5964bcd",
         "owner": "gatsby-source-contentful"
       }
     },
@@ -3796,28 +3394,6 @@
         "content": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Because my own family legacy required me to project an image of the perfect Mormon family, I’ve always been fascinated by the stark divide between the perceptions of a family to the outside world and the inside reality of that world.  Also, what price we pay for secrets and their ongoing cost to the individual and family, the interplay of identity, loyalty, religious identification, and characteristics of survivorship. I’ve explored these themes in \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"We Were Smiths:\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"A Memoir\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"I earned an MBA from New York University and then spent almost 20 years in the corporate business world before a personal crises returned me to earlier passions, writing and psychology, my undergraduate degrees.   I began writing again, spurred by the suddenly pressing questions I had that I hoped would be answered in the hundreds of journals my sister and I kept growing up. I set out to explore how we both perceived our lives, comparing and contrasting our experiences of leaving the Mormon faith, and our very different outcomes.  This was the impetus for\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\" We Were Smiths: A Memoir\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\".\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"After taking several local writing classes, I joined a small Writing Group that met bi-monthly for formal critique and feedback discussion.  This step was critical in developing my memories into the structure of story,  and editing the slowly building memoir taking shape. Feedback from the Iowa Memoir Writing Program (one of 10 writers accepted) further influenced my direction and writing tone and I spent the next year editing, re-writing and condensing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"We Were Smiths:\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"A Memoir.\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"  \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Feeling finished with the manuscript, I obtained an agent, and prepared a proposal for publishers of my memoir, ready to send it out.  But after some key feedback from several people close to me, I concluded that the story I was telling didn’t go deep enough, reveal enough, and I’m revising We Were Smiths: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"A Memoir\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" one final time. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Having lived in Manhattan, Minneapolis and Atlanta, I now call the beautiful city of Savannah home. I live in the historical section, across from a green square, with my husband, Kent, and our over-indulged Maltepoo, Callie.  Our three terrific children, Elizabeth, Kyle and Kendall are grown and gone but, luckily for us, visit often.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\\n        \\n        \\n          \\n        \\n      \\n\\n    \\n\\n  \\n\\n  \\n    \\n            \\n          \\n\\n        \\n      \\n\\n      \\n\\n  \\n\\n    \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}",
         "type": "ContentfulRichText",
         "contentDigest": "836e3918b59a32a0ef415b7568b7a37c",
-        "owner": "@contentful/gatsby-transformer-contentful-richtext"
-      }
-    },
-    "9e1a4c7e-ec6b-53cd-8001-1b29e726b873": {
-      "id": "9e1a4c7e-ec6b-53cd-8001-1b29e726b873",
-      "children": [],
-      "parent": "5a8177dc-df73-5219-a76d-b94a2682d922",
-      "internal": {
-        "content": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-2\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"We Were Smiths: A Memoir\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-2\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}",
-        "type": "ContentfulRichText",
-        "contentDigest": "7dc9bf80da887788c10101f2bcef9b1d",
-        "owner": "@contentful/gatsby-transformer-contentful-richtext"
-      }
-    },
-    "a89d68f0-f3c2-5a3f-87ed-c852fe9cdcc3": {
-      "id": "a89d68f0-f3c2-5a3f-87ed-c852fe9cdcc3",
-      "children": [],
-      "parent": "9e661bc6-4c7c-5d19-855d-a5a3a9acce57",
-      "internal": {
-        "content": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"We Were Smiths\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\": \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"A Memoir\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" is a unique, insider account of growing up as royalty in the Mormon Church, where lineage and family birthright define one’s status and importance. My great-great-grandfather was one of the few descendants of Joseph Smith to come west as a young orphan with Brigham Young, making my family a rarity in Utah who can claim a connection to the Church’s original founder and prophet.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"We Were Smiths\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\": \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"A Memoir\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" will appeal to readers who enjoy pulling back the covers to see the dramatic  truth inside of a family collapsing under the weight of this unique Mormon legacy and how they implode and disperse, both physically and emotionally, from each other in the wake of an explosive family secret. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"This first-person account details how two sisters break away from Church and family, in wildly different ways, fleeing Utah and everything they’ve known to chase their dreams.   Taking place  in Utah, California, and Manhattan,  I recreate, from my sister’s and my own extensive journals, a vivid picture of their vastly different and, sometimes similar, struggles to survive outside the Mormon faith and culture.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"I divulge the family’s hidden flaws and secrets—alcoholism, bulimia, sexual abuse and suicide—assessing their impact on the family’s eventual dissolution. I also offer an insider’s perspective on how Mormon belief systems contributed to this fragmentation, to create the split between faithful Mormons and shunned Apostates and their struggle to somehow remain Smiths, a clan with fierce loyalties and love for each other.  I try to answer the question: Is it possible to transcend religious barriers and belief systems and retain a sense of family identity and belonging?  \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"At its heart, this is also a story of truth transforming a family as they explore the limits and exceptions of forgiveness, relinquishing old definitions of family, even God, in the attempt to reconcile as a family under a new, more generous and tolerant umbrella called the Smith family.  \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"We Were Smiths\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\": \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"A Memoir\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" mines the emotionally rich territory of memoirs such as Educated by Tara Westover, Leaving the Saints by Martha Beck and Jon Krakauer’s Under the Banner of Heaven, exploring the pitfalls of legacy, religion, identity, and the costs of freedom.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"blockquote\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}",
-        "type": "ContentfulRichText",
-        "contentDigest": "858a45759db63cf6ee782db1c4e63f32",
         "owner": "@contentful/gatsby-transformer-contentful-richtext"
       }
     },
@@ -4585,6 +4161,418 @@
         "owner": "@contentful/gatsby-transformer-contentful-richtext"
       }
     },
+    "e775d363-1d4f-58ac-8cb7-3381780470ca": {
+      "data": {},
+      "content": [
+        {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "marks": [],
+              "value": "",
+              "nodeType": "text"
+            }
+          ],
+          "nodeType": "paragraph"
+        },
+        {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "marks": [],
+              "value": "In my memoir, ",
+              "nodeType": "text"
+            },
+            {
+              "data": {},
+              "marks": [
+                {
+                  "type": "italic"
+                }
+              ],
+              "value": "We Were Smiths: A Memoir",
+              "nodeType": "text"
+            },
+            {
+              "data": {},
+              "marks": [],
+              "value": ", I reveal the consequences of leaving the Mormon Church as a descendant of Joseph Smith, the Mormon Church founder and prophet.  Why did my sister and I feel compelled to leave when so much was at stake? My family was considered Mormon royalty, but it was vulnerable to teenage rebellion, divorce, and substance abuse buried under the surface of our family’s perfect veneer.   ",
+              "nodeType": "text"
+            }
+          ],
+          "nodeType": "paragraph"
+        },
+        {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "marks": [
+                {
+                  "type": "italic"
+                }
+              ],
+              "value": "We Were Smiths",
+              "nodeType": "text"
+            },
+            {
+              "data": {},
+              "marks": [],
+              "value": ":",
+              "nodeType": "text"
+            },
+            {
+              "data": {},
+              "marks": [
+                {
+                  "type": "italic"
+                }
+              ],
+              "value": " A Memoir",
+              "nodeType": "text"
+            },
+            {
+              "data": {},
+              "marks": [],
+              "value": " chronicles the divergent paths my sister and I took in abandoning the Mormon Church; me to Manhattan, and my sister to California. While close allies in our family of eleven, we rebelled in completely separate ways but remained close despite our contrasting lifestyles. My sister’s path took her from singing for drinks in Blues dives in San Francisco, to looking for love in the violent Hell’s Angels Long Beach posse.  Meanwhile, I was breaking the “boys only rule “ by launching the new Personal Computer with IBM but spending my nights caught in the spell of Studio 54’s coated cocaine scene.  We both gain our freedom from the Church but at very different costs. ",
+              "nodeType": "text"
+            }
+          ],
+          "nodeType": "paragraph"
+        },
+        {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "marks": [],
+              "value": "Literary agent, Don Fehr, Senior Vice President at Trident Media in NYC, represents me.  I hope to finish my revisions and complete We Were Smiths: ",
+              "nodeType": "text"
+            },
+            {
+              "data": {},
+              "marks": [
+                {
+                  "type": "italic"
+                }
+              ],
+              "value": "A Memoir",
+              "nodeType": "text"
+            },
+            {
+              "data": {},
+              "marks": [],
+              "value": " sometime in 2019.\n",
+              "nodeType": "text"
+            }
+          ],
+          "nodeType": "paragraph"
+        },
+        {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "marks": [],
+              "value": "\n",
+              "nodeType": "text"
+            }
+          ],
+          "nodeType": "paragraph"
+        }
+      ],
+      "nodeType": "document",
+      "id": "e775d363-1d4f-58ac-8cb7-3381780470ca",
+      "parent": "510f3858-1c25-540a-b2d5-0a896920b393",
+      "children": [
+        "74d73256-d7f4-53d0-8ece-84928093386b"
+      ],
+      "mainContentBlock": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"In my memoir, \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"We Were Smiths: A Memoir\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", I reveal the consequences of leaving the Mormon Church as a descendant of Joseph Smith, the Mormon Church founder and prophet.  Why did my sister and I feel compelled to leave when so much was at stake? My family was considered Mormon royalty, but it was vulnerable to teenage rebellion, divorce, and substance abuse buried under the surface of our family’s perfect veneer.   \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"We Were Smiths\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\":\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\" A Memoir\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" chronicles the divergent paths my sister and I took in abandoning the Mormon Church; me to Manhattan, and my sister to California. While close allies in our family of eleven, we rebelled in completely separate ways but remained close despite our contrasting lifestyles. My sister’s path took her from singing for drinks in Blues dives in San Francisco, to looking for love in the violent Hell’s Angels Long Beach posse.  Meanwhile, I was breaking the “boys only rule “ by launching the new Personal Computer with IBM but spending my nights caught in the spell of Studio 54’s coated cocaine scene.  We both gain our freedom from the Church but at very different costs. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Literary agent, Don Fehr, Senior Vice President at Trident Media in NYC, represents me.  I hope to finish my revisions and complete We Were Smiths: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"A Memoir\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" sometime in 2019.\\n\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\\n\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}",
+      "internal": {
+        "type": "contentfulHomeMainContentBlockRichTextNode",
+        "mediaType": "text/richtext",
+        "content": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"In my memoir, \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"We Were Smiths: A Memoir\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", I reveal the consequences of leaving the Mormon Church as a descendant of Joseph Smith, the Mormon Church founder and prophet.  Why did my sister and I feel compelled to leave when so much was at stake? My family was considered Mormon royalty, but it was vulnerable to teenage rebellion, divorce, and substance abuse buried under the surface of our family’s perfect veneer.   \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"We Were Smiths\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\":\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\" A Memoir\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" chronicles the divergent paths my sister and I took in abandoning the Mormon Church; me to Manhattan, and my sister to California. While close allies in our family of eleven, we rebelled in completely separate ways but remained close despite our contrasting lifestyles. My sister’s path took her from singing for drinks in Blues dives in San Francisco, to looking for love in the violent Hell’s Angels Long Beach posse.  Meanwhile, I was breaking the “boys only rule “ by launching the new Personal Computer with IBM but spending my nights caught in the spell of Studio 54’s coated cocaine scene.  We both gain our freedom from the Church but at very different costs. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Literary agent, Don Fehr, Senior Vice President at Trident Media in NYC, represents me.  I hope to finish my revisions and complete We Were Smiths: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"A Memoir\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" sometime in 2019.\\n\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\\n\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}",
+        "contentDigest": "5d870cf4b3b2ed6294f7d02c4ff79411",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "5a8177dc-df73-5219-a76d-b94a2682d922": {
+      "data": {},
+      "content": [
+        {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "marks": [],
+              "value": "We Were Smiths: A Memoir",
+              "nodeType": "text"
+            }
+          ],
+          "nodeType": "heading-2"
+        },
+        {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "marks": [],
+              "value": "",
+              "nodeType": "text"
+            }
+          ],
+          "nodeType": "paragraph"
+        }
+      ],
+      "nodeType": "document",
+      "id": "5a8177dc-df73-5219-a76d-b94a2682d922",
+      "parent": "67f3dc84-9774-5c08-aa8a-fcd5e583d32a",
+      "children": [
+        "9e1a4c7e-ec6b-53cd-8001-1b29e726b873"
+      ],
+      "heroText": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"We Were Smiths: A Memoir\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-2\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}",
+      "internal": {
+        "type": "contentfulMemoirHeroTextRichTextNode",
+        "mediaType": "text/richtext",
+        "content": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"We Were Smiths: A Memoir\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-2\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}",
+        "contentDigest": "8610656be517ce5a39d1c73a2d084f14",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "9e661bc6-4c7c-5d19-855d-a5a3a9acce57": {
+      "data": {},
+      "content": [
+        {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "marks": [],
+              "value": "",
+              "nodeType": "text"
+            }
+          ],
+          "nodeType": "paragraph"
+        },
+        {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ],
+                  "value": "We Were Smiths",
+                  "nodeType": "text"
+                },
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": ": ",
+                  "nodeType": "text"
+                },
+                {
+                  "data": {},
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ],
+                  "value": "A Memoir",
+                  "nodeType": "text"
+                },
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": " is a unique, insider account of growing up as royalty in the Mormon Church, where lineage and family birthright define one’s status and importance. My great-great-grandfather was one of the few descendants of Joseph Smith to come west as a young orphan with Brigham Young, making my family a rarity in Utah who can claim a connection to the Church’s original founder and prophet.",
+                  "nodeType": "text"
+                }
+              ],
+              "nodeType": "paragraph"
+            },
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ],
+                  "value": "We Were Smiths",
+                  "nodeType": "text"
+                },
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": ": ",
+                  "nodeType": "text"
+                },
+                {
+                  "data": {},
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ],
+                  "value": "A Memoir",
+                  "nodeType": "text"
+                },
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": " will appeal to readers who enjoy pulling back the covers to see the dramatic  truth inside of a family collapsing under the weight of this unique Mormon legacy and how they implode and disperse, both physically and emotionally, from each other in the wake of an explosive family secret. ",
+                  "nodeType": "text"
+                }
+              ],
+              "nodeType": "paragraph"
+            },
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": "This first-person account details how two sisters break away from Church and family, in wildly different ways, fleeing Utah and everything they’ve known to chase their dreams.   Taking place  in Utah, California, and Manhattan,  I recreate, from my sister’s and my own extensive journals, a vivid picture of their vastly different and, sometimes similar, struggles to survive outside the Mormon faith and culture.",
+                  "nodeType": "text"
+                }
+              ],
+              "nodeType": "paragraph"
+            },
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": "I divulge the family’s hidden flaws and secrets—alcoholism, bulimia, sexual abuse and suicide—assessing their impact on the family’s eventual dissolution. I also offer an insider’s perspective on how Mormon belief systems contributed to this fragmentation, to create the split between faithful Mormons and shunned Apostates and their struggle to somehow remain Smiths, a clan with fierce loyalties and love for each other.  I try to answer the question: Is it possible to transcend religious barriers and belief systems and retain a sense of family identity and belonging?  ",
+                  "nodeType": "text"
+                }
+              ],
+              "nodeType": "paragraph"
+            },
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": "At its heart, this is also a story of truth transforming a family as they explore the limits and exceptions of forgiveness, relinquishing old definitions of family, even God, in the attempt to reconcile as a family under a new, more generous and tolerant umbrella called the Smith family.  ",
+                  "nodeType": "text"
+                }
+              ],
+              "nodeType": "paragraph"
+            },
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ],
+                  "value": "We Were Smiths",
+                  "nodeType": "text"
+                },
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": ": ",
+                  "nodeType": "text"
+                },
+                {
+                  "data": {},
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ],
+                  "value": "A Memoir",
+                  "nodeType": "text"
+                },
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": " mines the emotionally rich territory of memoirs such as Educated by Tara Westover, Leaving the Saints by Martha Beck and Jon Krakauer’s Under the Banner of Heaven, exploring the pitfalls of legacy, religion, identity, and the costs of freedom.",
+                  "nodeType": "text"
+                }
+              ],
+              "nodeType": "paragraph"
+            }
+          ],
+          "nodeType": "blockquote"
+        },
+        {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "marks": [],
+              "value": "",
+              "nodeType": "text"
+            }
+          ],
+          "nodeType": "paragraph"
+        }
+      ],
+      "nodeType": "document",
+      "id": "9e661bc6-4c7c-5d19-855d-a5a3a9acce57",
+      "parent": "67f3dc84-9774-5c08-aa8a-fcd5e583d32a",
+      "children": [
+        "a89d68f0-f3c2-5a3f-87ed-c852fe9cdcc3"
+      ],
+      "mainContent": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"We Were Smiths\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\": \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"A Memoir\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" is a unique, insider account of growing up as royalty in the Mormon Church, where lineage and family birthright define one’s status and importance. My great-great-grandfather was one of the few descendants of Joseph Smith to come west as a young orphan with Brigham Young, making my family a rarity in Utah who can claim a connection to the Church’s original founder and prophet.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"We Were Smiths\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\": \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"A Memoir\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" will appeal to readers who enjoy pulling back the covers to see the dramatic  truth inside of a family collapsing under the weight of this unique Mormon legacy and how they implode and disperse, both physically and emotionally, from each other in the wake of an explosive family secret. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"This first-person account details how two sisters break away from Church and family, in wildly different ways, fleeing Utah and everything they’ve known to chase their dreams.   Taking place  in Utah, California, and Manhattan,  I recreate, from my sister’s and my own extensive journals, a vivid picture of their vastly different and, sometimes similar, struggles to survive outside the Mormon faith and culture.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"I divulge the family’s hidden flaws and secrets—alcoholism, bulimia, sexual abuse and suicide—assessing their impact on the family’s eventual dissolution. I also offer an insider’s perspective on how Mormon belief systems contributed to this fragmentation, to create the split between faithful Mormons and shunned Apostates and their struggle to somehow remain Smiths, a clan with fierce loyalties and love for each other.  I try to answer the question: Is it possible to transcend religious barriers and belief systems and retain a sense of family identity and belonging?  \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"At its heart, this is also a story of truth transforming a family as they explore the limits and exceptions of forgiveness, relinquishing old definitions of family, even God, in the attempt to reconcile as a family under a new, more generous and tolerant umbrella called the Smith family.  \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"We Were Smiths\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\": \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"A Memoir\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" mines the emotionally rich territory of memoirs such as Educated by Tara Westover, Leaving the Saints by Martha Beck and Jon Krakauer’s Under the Banner of Heaven, exploring the pitfalls of legacy, religion, identity, and the costs of freedom.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"blockquote\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}",
+      "internal": {
+        "type": "contentfulMemoirMainContentRichTextNode",
+        "mediaType": "text/richtext",
+        "content": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"We Were Smiths\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\": \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"A Memoir\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" is a unique, insider account of growing up as royalty in the Mormon Church, where lineage and family birthright define one’s status and importance. My great-great-grandfather was one of the few descendants of Joseph Smith to come west as a young orphan with Brigham Young, making my family a rarity in Utah who can claim a connection to the Church’s original founder and prophet.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"We Were Smiths\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\": \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"A Memoir\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" will appeal to readers who enjoy pulling back the covers to see the dramatic  truth inside of a family collapsing under the weight of this unique Mormon legacy and how they implode and disperse, both physically and emotionally, from each other in the wake of an explosive family secret. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"This first-person account details how two sisters break away from Church and family, in wildly different ways, fleeing Utah and everything they’ve known to chase their dreams.   Taking place  in Utah, California, and Manhattan,  I recreate, from my sister’s and my own extensive journals, a vivid picture of their vastly different and, sometimes similar, struggles to survive outside the Mormon faith and culture.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"I divulge the family’s hidden flaws and secrets—alcoholism, bulimia, sexual abuse and suicide—assessing their impact on the family’s eventual dissolution. I also offer an insider’s perspective on how Mormon belief systems contributed to this fragmentation, to create the split between faithful Mormons and shunned Apostates and their struggle to somehow remain Smiths, a clan with fierce loyalties and love for each other.  I try to answer the question: Is it possible to transcend religious barriers and belief systems and retain a sense of family identity and belonging?  \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"At its heart, this is also a story of truth transforming a family as they explore the limits and exceptions of forgiveness, relinquishing old definitions of family, even God, in the attempt to reconcile as a family under a new, more generous and tolerant umbrella called the Smith family.  \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"We Were Smiths\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\": \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"A Memoir\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" mines the emotionally rich territory of memoirs such as Educated by Tara Westover, Leaving the Saints by Martha Beck and Jon Krakauer’s Under the Banner of Heaven, exploring the pitfalls of legacy, religion, identity, and the costs of freedom.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"blockquote\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}",
+        "contentDigest": "70a91df7d08a4ab98a31618ef4c8e882",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "74d73256-d7f4-53d0-8ece-84928093386b": {
+      "id": "74d73256-d7f4-53d0-8ece-84928093386b",
+      "children": [],
+      "parent": "e775d363-1d4f-58ac-8cb7-3381780470ca",
+      "internal": {
+        "content": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"In my memoir, \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"We Were Smiths: A Memoir\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", I reveal the consequences of leaving the Mormon Church as a descendant of Joseph Smith, the Mormon Church founder and prophet.  Why did my sister and I feel compelled to leave when so much was at stake? My family was considered Mormon royalty, but it was vulnerable to teenage rebellion, divorce, and substance abuse buried under the surface of our family’s perfect veneer.   \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"We Were Smiths\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\":\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\" A Memoir\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" chronicles the divergent paths my sister and I took in abandoning the Mormon Church; me to Manhattan, and my sister to California. While close allies in our family of eleven, we rebelled in completely separate ways but remained close despite our contrasting lifestyles. My sister’s path took her from singing for drinks in Blues dives in San Francisco, to looking for love in the violent Hell’s Angels Long Beach posse.  Meanwhile, I was breaking the “boys only rule “ by launching the new Personal Computer with IBM but spending my nights caught in the spell of Studio 54’s coated cocaine scene.  We both gain our freedom from the Church but at very different costs. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Literary agent, Don Fehr, Senior Vice President at Trident Media in NYC, represents me.  I hope to finish my revisions and complete We Were Smiths: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"A Memoir\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" sometime in 2019.\\n\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\\n\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}",
+        "type": "ContentfulRichText",
+        "contentDigest": "3a6cf6916f3baff431c382baa341b797",
+        "owner": "@contentful/gatsby-transformer-contentful-richtext"
+      }
+    },
+    "9e1a4c7e-ec6b-53cd-8001-1b29e726b873": {
+      "id": "9e1a4c7e-ec6b-53cd-8001-1b29e726b873",
+      "children": [],
+      "parent": "5a8177dc-df73-5219-a76d-b94a2682d922",
+      "internal": {
+        "content": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"We Were Smiths: A Memoir\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-2\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}",
+        "type": "ContentfulRichText",
+        "contentDigest": "d95967fc78e4e604ff5ee2be02f60b91",
+        "owner": "@contentful/gatsby-transformer-contentful-richtext"
+      }
+    },
+    "a89d68f0-f3c2-5a3f-87ed-c852fe9cdcc3": {
+      "id": "a89d68f0-f3c2-5a3f-87ed-c852fe9cdcc3",
+      "children": [],
+      "parent": "9e661bc6-4c7c-5d19-855d-a5a3a9acce57",
+      "internal": {
+        "content": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"We Were Smiths\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\": \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"A Memoir\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" is a unique, insider account of growing up as royalty in the Mormon Church, where lineage and family birthright define one’s status and importance. My great-great-grandfather was one of the few descendants of Joseph Smith to come west as a young orphan with Brigham Young, making my family a rarity in Utah who can claim a connection to the Church’s original founder and prophet.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"We Were Smiths\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\": \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"A Memoir\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" will appeal to readers who enjoy pulling back the covers to see the dramatic  truth inside of a family collapsing under the weight of this unique Mormon legacy and how they implode and disperse, both physically and emotionally, from each other in the wake of an explosive family secret. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"This first-person account details how two sisters break away from Church and family, in wildly different ways, fleeing Utah and everything they’ve known to chase their dreams.   Taking place  in Utah, California, and Manhattan,  I recreate, from my sister’s and my own extensive journals, a vivid picture of their vastly different and, sometimes similar, struggles to survive outside the Mormon faith and culture.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"I divulge the family’s hidden flaws and secrets—alcoholism, bulimia, sexual abuse and suicide—assessing their impact on the family’s eventual dissolution. I also offer an insider’s perspective on how Mormon belief systems contributed to this fragmentation, to create the split between faithful Mormons and shunned Apostates and their struggle to somehow remain Smiths, a clan with fierce loyalties and love for each other.  I try to answer the question: Is it possible to transcend religious barriers and belief systems and retain a sense of family identity and belonging?  \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"At its heart, this is also a story of truth transforming a family as they explore the limits and exceptions of forgiveness, relinquishing old definitions of family, even God, in the attempt to reconcile as a family under a new, more generous and tolerant umbrella called the Smith family.  \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"We Were Smiths\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\": \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"A Memoir\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" mines the emotionally rich territory of memoirs such as Educated by Tara Westover, Leaving the Saints by Martha Beck and Jon Krakauer’s Under the Banner of Heaven, exploring the pitfalls of legacy, religion, identity, and the costs of freedom.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"blockquote\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}",
+        "type": "ContentfulRichText",
+        "contentDigest": "858a45759db63cf6ee782db1c4e63f32",
+        "owner": "@contentful/gatsby-transformer-contentful-richtext"
+      }
+    },
     "SitePage /404/": {
       "jsonName": "404-22d",
       "internalComponentName": "Component404",
@@ -4749,7 +4737,7 @@
   "status": {
     "plugins": {
       "gatsby-source-contentful": {
-        "buawi7gya7qk-master-cdn.contentful.com": "w5ZGw6JFwqZmVcKsE8Kow4grw45QdybDt8O2wokqw4USEQ3DjHx_WhfChsOlw5vCi8OKwr_DicKWFyVfSC4vwozCgMKzwpQbw4bDmHQHwqvCqXrCl3LDomvCkMOGw4Zjw63Cr8KiecKgblDDiyk9wpsFYBQgw4g2"
+        "buawi7gya7qk-master-cdn.contentful.com": "w5ZGw6JFwqZmVcKsE8Kow4grw45QdybDhcOASxBawoVNwrHCgsKLBMOdaSELJkhjVwfDvmpNwqY0FMOUwoxSbXHDhsKPR0_CmMKPHlpnwr7CtsOSwrQuNCI-L8O5ZcKlw6F0SyrDp8OTwpIgaQciw5w"
       }
     },
     "PLUGINS_HASH": "7bea817f838b355da56d1c0eac94e709"
@@ -4920,13 +4908,13 @@
   "jsonDataPaths": {
     "sq--src-components-layout-layout-js": 1314472495,
     "sq--src-components-seo-js": 1025518380,
-    "about-f34": "699/path---about-f-34-4c2-twqdvaF2KbtDjxFTK6CjMa7MQ",
+    "about-f34": "268/path---about-f-34-4c2-yu7AtvqJE3BDPuHhZ6Wyy3lF4ro",
     "excerpt-0bd": "226/path---excerpt-0-bd-c99-MmiCWizEum4INWhGhhBPyotr4",
     "contact-26a": "95/path---contact-26-a-cd9-ntixg7Zchh2qSuFoezogyaMF8",
-    "index": "462/path---index-6a9-QFDbJBbuOKryf3QVjbJJD08jSHY",
+    "index": "722/path---index-6a9-208dC2rctgmJ3Tjy7aa1z7ZOVM",
     "dev-404-page-5f9": "920/path---dev-404-page-5-f-9-fab-NZuapzHg3X9TaN1iIixfv1W23E",
     "photo-gallery-a9d": "377/path---photo-gallery-a-9-d-91d-lN6FcZbKDnbbzWKLzBvaJKPIFw",
-    "memoir-3ad": "984/path---memoir-3-ad-a40-eJ4VY26whU2EY6AwAMKRNxZt1n8",
+    "memoir-3ad": "101/path---memoir-3-ad-a40-dTe6G3lMn366GpvTNDJnKxZY",
     "404-22d": "44/path---404-22-d-bce-NZuapzHg3X9TaN1iIixfv1W23E",
     "404-html-516": "164/path---404-html-516-62a-NZuapzHg3X9TaN1iIixfv1W23E",
     "sq--src-components-image-js": 2011440971
