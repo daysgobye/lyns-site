@@ -1,0 +1,47 @@
+@import '../base.sass'
+.mem
+    margin-top: 70px
+    display: flex
+    flex-direction: column
+    width: 100%
+    align-items: center
+    &__main
+        // background: teal
+        width: 67%
+        padding: 10px
+        padding-left: 20px
+        border-left: 1px solid $light-grey
+        @include navsnap
+            width: 100%
+.mem__herotext
+    width: 100%
+    // background: teal
+    color: white
+    display: flex
+    align-items: center
+    // justify-content: center
+    flex-direction: column
+    color: $medium-grey
+    color: black
+    h2, h3 
+      transform: translateY(2vw)
+      opacity: 0 
+      transition: all .75s ease-in-out
+    h3
+        width: 100%
+        text-align: center
+        font-size: 1.5vw 
+        @include navsnap
+            font-size: 3.5vw 
+    h2
+        width: 100%
+        text-align: center
+        font-family: $mainfont
+        font-size: 3.3vw
+        @include navsnap
+            font-size: 7vw
+    &.loaded 
+      h3, h2
+        opacity: 1
+        transform: translateY(0)
+

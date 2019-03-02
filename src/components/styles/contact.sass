@@ -1,0 +1,70 @@
+@import '../base.sass'
+.contact
+    display: flex
+    width: 100%
+    flex-direction: column
+    // background: teal
+    &__col
+        display: flex
+        justify-content: space-between
+        &__left
+            width: 40%
+            // background: pink
+            h3
+                letter-spacing: .3em
+                font-size: 1.5rem
+                padding-bottom: 40px
+                color: $medium-grey
+                font-family: $subfont
+                font-weight: $light
+            p
+                margin-bottom: 20px
+        &__right
+            display: flex
+            flex-direction: column
+            align-items: center
+            justify-content: center
+            width: 48%
+            form
+                // background: tan
+                label
+                    font-weight: $light
+                    font-family: $mainfont
+                    margin-bottom: 25px
+                    display: flex
+                    flex-direction: column
+                    input
+                        margin-top: 5px
+                        padding: 15px
+                        border-radius: 2px
+                        border: 1px solid $light-grey
+                        background: $main-background
+                    textarea
+                        border: none
+                        border-radius: 2px
+                        border: 1px solid $light-grey
+                        resize: none
+                        background: $main-background
+                        margin-top: 5px
+                .name
+                    justify-content: space-between
+                    display: flex
+                    flex-direction: row
+                    &__input
+                      width: 49%
+                      input
+                          display: flex 
+                          width: 100%
+                      p 
+                          margin-top: .4em
+                          font-size: .85em
+    &__title
+        display: flex
+        justify-content: center
+        padding: 13vh
+        width: 100%
+        h2
+            font-family: $mainfont
+            font-size: 3.1vw
+            @include navsnap
+                font-size: 6vw

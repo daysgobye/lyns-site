@@ -1,0 +1,47 @@
+@import '../base.sass'
+.home
+    display: flex
+    justify-content: space-between
+    &__left
+        width: 40%
+        &__img
+            width: 100%
+            // transform: translateX(-2vw)
+            opacity: 0 
+            transition: all .5s ease-in-out
+            &.loaded
+              // transform: translateX(0)
+              opacity: 1
+            img
+                max-width: 100%
+                // padding: 20px 0px
+            h4
+                padding: 10px 0
+    &__right
+        display: flex
+        flex-direction: column
+        // align-items: center
+        // justify-content: center
+        width: 49%
+        h2
+            // background: red
+            line-height: 1em
+            // margin-top: 100px
+            font-family: $mainfont
+            font-size: 2.5vw
+            transform: translateX(1.5vw)
+            opacity: 0
+            transition: all 1s ease-in-out
+            &.loaded 
+              transform: translateX(0)
+              opacity: 1
+            @include navsnap
+                margin-top: 20px
+                font-size: 5.5vw
+        div 
+          transform: translateY(1.5vw)
+          opacity: 0
+          transition: all 1s ease-in-out
+          &.loaded 
+            transform: translateY(0)
+            opacity: 1
