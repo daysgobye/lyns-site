@@ -27,7 +27,13 @@ class photoGallery extends Component {
                 <h2>Photo Gallery</h2>
                 <div className="photogallery__container__grid">
                   {data.contentfulPhotoGallery.mainImageGallery.map(img => (
-                    <div className={`photogallery__container__grid__item ${img.image.title === "full" ? "photogallery__container__grid__item__full" : " stu"}`} >
+                    <div
+                      className={`photogallery__container__grid__item ${
+                        img.image.title === "full"
+                          ? "photogallery__container__grid__item__full"
+                          : " stu"
+                      }`}
+                    >
                       <Img fluid={img.image.fluid} />
                       <p>{img.image.description}</p>
                     </div>
@@ -41,6 +47,12 @@ class photoGallery extends Component {
     );
   }
 }
+
+// paperst6767
+// SerbianWinter888%#7
+
+// OneCommercial707
+// BladeRunnerk6767
 
 export const query = graphql`
   query {
