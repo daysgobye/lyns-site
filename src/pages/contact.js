@@ -34,7 +34,6 @@ class contact extends Component {
                       __html: data.address.childContentfulRichText.html
                     }}
                   />
-
                 </div>
                 <div className="contact__col__right snap__full">
                   <Conform email={data.contactEmail}>
