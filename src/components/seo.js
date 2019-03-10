@@ -12,7 +12,7 @@ function SEO({ description, lang, meta, keywords, title, page, image }) {
       render={data => {
         const metaDescription =
           description || data.site.siteMetadata.description;
-        const metaImage = ogImage || this.props.image;
+        const metaImage = ogImage || image;
         return (
           <div>
             <Helmet
