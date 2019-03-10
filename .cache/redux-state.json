@@ -1467,12 +1467,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2019-03-10T05:21:00.508Z",
+      "buildTime": "2019-03-10T06:25:33.338Z",
       "id": "Site",
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "bbd5f9ae8d7ff8bdf1e1ba28d76c5b4e",
+        "contentDigest": "fc61acb4689fd924b0e7824d157e26f9",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -1482,7 +1482,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "47ce97b01bd5fcef93a585ed5832ed7d",
+        "contentDigest": "6c9ad6291f686c3bab16ebd11d303e70",
         "type": "Directory",
         "description": "Directory \"src/images\"",
         "owner": "gatsby-source-filesystem"
@@ -1491,12 +1491,12 @@
       "absolutePath": "/Users/quinnmyers/Desktop/lyns-site/src/images",
       "relativePath": "",
       "extension": "",
-      "size": 704,
-      "prettySize": "704 B",
-      "modifiedTime": "2019-03-10T03:07:53.078Z",
-      "accessTime": "2019-03-10T05:21:07.970Z",
-      "changeTime": "2019-03-10T03:07:53.078Z",
-      "birthTime": "2019-03-10T03:07:53.069Z",
+      "size": 736,
+      "prettySize": "736 B",
+      "modifiedTime": "2019-03-10T06:19:45.360Z",
+      "accessTime": "2019-03-10T06:25:41.702Z",
+      "changeTime": "2019-03-10T06:19:45.360Z",
+      "birthTime": "2019-03-10T05:55:19.897Z",
       "root": "/",
       "dir": "/Users/quinnmyers/Desktop/lyns-site/src",
       "base": "images",
@@ -1505,21 +1505,21 @@
       "relativeDirectory": "..",
       "dev": 16777220,
       "mode": 16877,
-      "nlink": 22,
+      "nlink": 23,
       "uid": 501,
       "gid": 20,
       "rdev": 0,
       "blksize": 4096,
-      "ino": 19673869,
+      "ino": 19779526,
       "blocks": 0,
-      "atimeMs": 1552195267969.5493,
-      "mtimeMs": 1552187273077.6968,
-      "ctimeMs": 1552187273077.6968,
-      "birthtimeMs": 1552187273069.2668,
-      "atime": "2019-03-10T05:21:07.970Z",
-      "mtime": "2019-03-10T03:07:53.078Z",
-      "ctime": "2019-03-10T03:07:53.078Z",
-      "birthtime": "2019-03-10T03:07:53.069Z"
+      "atimeMs": 1552199141702.4019,
+      "mtimeMs": 1552198785359.7048,
+      "ctimeMs": 1552198785359.7048,
+      "birthtimeMs": 1552197319896.6316,
+      "atime": "2019-03-10T06:25:41.702Z",
+      "mtime": "2019-03-10T06:19:45.360Z",
+      "ctime": "2019-03-10T06:19:45.360Z",
+      "birthtime": "2019-03-10T05:55:19.897Z"
     },
     "f01ab893-c8c1-562f-adef-10ace849c5fd": {
       "id": "f01ab893-c8c1-562f-adef-10ace849c5fd",
@@ -4681,6 +4681,63 @@
         "owner": "@contentful/gatsby-transformer-contentful-richtext"
       }
     },
+    "e67f7df6-298b-5036-b20b-dba27b0db6b6": {
+      "id": "e67f7df6-298b-5036-b20b-dba27b0db6b6",
+      "children": [
+        "472ab515-2d43-5401-a46a-23f4c51d3c7b"
+      ],
+      "parent": null,
+      "internal": {
+        "contentDigest": "a66141eec9be3e4d4da62683a1cf6aa9",
+        "type": "File",
+        "mediaType": "image/jpeg",
+        "description": "File \"src/images/ogImage.jpg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/quinnmyers/Desktop/lyns-site/src/images/ogImage.jpg",
+      "relativePath": "ogImage.jpg",
+      "extension": "jpg",
+      "size": 128191,
+      "prettySize": "128 kB",
+      "modifiedTime": "2019-03-10T05:55:19.893Z",
+      "accessTime": "2019-03-10T06:24:39.795Z",
+      "changeTime": "2019-03-10T06:19:45.366Z",
+      "birthTime": "2019-03-10T05:55:19.891Z",
+      "root": "/",
+      "dir": "/Users/quinnmyers/Desktop/lyns-site/src/images",
+      "base": "ogImage.jpg",
+      "ext": ".jpg",
+      "name": "ogImage",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 19826702,
+      "blocks": 256,
+      "atimeMs": 1552199079795.2354,
+      "mtimeMs": 1552197319892.5986,
+      "ctimeMs": 1552198785365.9941,
+      "birthtimeMs": 1552197319891.171,
+      "atime": "2019-03-10T06:24:39.795Z",
+      "mtime": "2019-03-10T05:55:19.893Z",
+      "ctime": "2019-03-10T06:19:45.366Z",
+      "birthtime": "2019-03-10T05:55:19.891Z"
+    },
+    "472ab515-2d43-5401-a46a-23f4c51d3c7b": {
+      "id": "472ab515-2d43-5401-a46a-23f4c51d3c7b",
+      "children": [],
+      "parent": "e67f7df6-298b-5036-b20b-dba27b0db6b6",
+      "internal": {
+        "contentDigest": "a66141eec9be3e4d4da62683a1cf6aa9",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
     "SitePage /404/": {
       "jsonName": "404-22d",
       "internalComponentName": "Component404",
@@ -4853,8 +4910,8 @@
   "componentDataDependencies": {
     "nodes": {
       "1b56e4e8-360b-5e10-96ad-483185a12a49": [
-        "/contact/",
-        "sq--src-components-layout-layout-js"
+        "sq--src-components-layout-layout-js",
+        "/contact/"
       ],
       "Site": [
         "sq--src-components-seo-js"
