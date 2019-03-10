@@ -1467,12 +1467,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2019-03-10T06:25:33.338Z",
+      "buildTime": "2019-03-10T06:53:25.769Z",
       "id": "Site",
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "fc61acb4689fd924b0e7824d157e26f9",
+        "contentDigest": "ecf7244d6c024ed85fdf5bcf14cbb243",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -1482,7 +1482,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "6c9ad6291f686c3bab16ebd11d303e70",
+        "contentDigest": "b769cb801b004db4eb4818ce35dcda59",
         "type": "Directory",
         "description": "Directory \"src/images\"",
         "owner": "gatsby-source-filesystem"
@@ -1493,10 +1493,10 @@
       "extension": "",
       "size": 736,
       "prettySize": "736 B",
-      "modifiedTime": "2019-03-10T06:19:45.360Z",
-      "accessTime": "2019-03-10T06:25:41.702Z",
-      "changeTime": "2019-03-10T06:19:45.360Z",
-      "birthTime": "2019-03-10T05:55:19.897Z",
+      "modifiedTime": "2019-03-10T06:47:54.193Z",
+      "accessTime": "2019-03-10T06:53:32.740Z",
+      "changeTime": "2019-03-10T06:47:54.193Z",
+      "birthTime": "2019-03-10T06:47:54.184Z",
       "root": "/",
       "dir": "/Users/quinnmyers/Desktop/lyns-site/src",
       "base": "images",
@@ -1510,16 +1510,16 @@
       "gid": 20,
       "rdev": 0,
       "blksize": 4096,
-      "ino": 19779526,
+      "ino": 19829507,
       "blocks": 0,
-      "atimeMs": 1552199141702.4019,
-      "mtimeMs": 1552198785359.7048,
-      "ctimeMs": 1552198785359.7048,
-      "birthtimeMs": 1552197319896.6316,
-      "atime": "2019-03-10T06:25:41.702Z",
-      "mtime": "2019-03-10T06:19:45.360Z",
-      "ctime": "2019-03-10T06:19:45.360Z",
-      "birthtime": "2019-03-10T05:55:19.897Z"
+      "atimeMs": 1552200812739.5142,
+      "mtimeMs": 1552200474192.9055,
+      "ctimeMs": 1552200474192.9055,
+      "birthtimeMs": 1552200474183.8892,
+      "atime": "2019-03-10T06:53:32.740Z",
+      "mtime": "2019-03-10T06:47:54.193Z",
+      "ctime": "2019-03-10T06:47:54.193Z",
+      "birthtime": "2019-03-10T06:47:54.184Z"
     },
     "f01ab893-c8c1-562f-adef-10ace849c5fd": {
       "id": "f01ab893-c8c1-562f-adef-10ace849c5fd",
@@ -4910,8 +4910,8 @@
   "componentDataDependencies": {
     "nodes": {
       "1b56e4e8-360b-5e10-96ad-483185a12a49": [
-        "sq--src-components-layout-layout-js",
-        "/contact/"
+        "/contact/",
+        "sq--src-components-layout-layout-js"
       ],
       "Site": [
         "sq--src-components-seo-js"
