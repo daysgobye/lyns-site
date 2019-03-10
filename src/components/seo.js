@@ -5,13 +5,14 @@ import { StaticQuery, graphql } from "gatsby";
 
 import ogImage from "./ogImage.jpg";
 
-function SEO({ description, lang, meta, keywords, title, page }) {
+function SEO({ description, lang, meta, keywords, title, page, image }) {
   return (
     <StaticQuery
       query={detailsQuery}
       render={data => {
         const metaDescription =
           description || data.site.siteMetadata.description;
+        const metaImage = ogImage || this.props.image;
         return (
           <div>
             <Helmet
@@ -43,7 +44,7 @@ function SEO({ description, lang, meta, keywords, title, page }) {
                 },
                 {
                   property: `og:image`,
-                  content: ogImage
+                  content: metaImage
                 },
                 {
                   name: `twitter:card`,

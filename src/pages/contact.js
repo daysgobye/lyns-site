@@ -6,6 +6,8 @@ import Conform from "../components/conform/conform";
 import { graphql } from "gatsby";
 import SEO from "../components/seo";
 
+import ogImage from "../images/ogImage.jpg";
+
 class contact extends Component {
   constructor(props) {
     super(props);
@@ -16,7 +18,7 @@ class contact extends Component {
     const data = this.props.data.contentfulSiteMisc;
     return (
       <div>
-        <SEO page="Contact" />
+        <SEO page="Contact" image={ogImage} />
         <Layout>
           <Content>
             <div className="contact">
