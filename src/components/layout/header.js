@@ -2,6 +2,9 @@ import React, { Component } from "react";
 import { Link } from "gatsby";
 import "./header.sass";
 import Content from "../Content/Content";
+
+import ReactGA from "react-ga";
+
 class Headder extends Component {
   constructor(props) {
     super(props);
@@ -37,6 +40,12 @@ class Headder extends Component {
     const currentstate = this.state.navOpen;
     this.setState({ navOpen: !currentstate });
   }
+  logNavEvent() {
+    ReactGA.event({
+      category: `Nav Item Click`,
+      action: `User Clicked Nav Item`
+    });
+  }
   render() {
     return (
       <div className="header__wrapper">
@@ -49,7 +58,10 @@ class Headder extends Component {
             <div className="desktop">
               <nav className="nav">
                 {this.state.navlinks.map((link, index) => (
-                  <div className="nav__link">
+                  <div
+                    className="nav__link"
+                    onClick={this.logNavEvent.bind(this)}
+                  >
                     <Link to={link.link} key={index}>
                       {link.title}
                     </Link>
@@ -62,6 +74,7 @@ class Headder extends Component {
               className={`mobile ${
                 this.state.navOpen ? "nav__open" : "nav__closed"
               }`}
+              onClick={this.logNavEvent.bind(this)}
             >
               <button
                 className="dot"
