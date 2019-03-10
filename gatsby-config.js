@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `Beauty Laid Bare | Lisa Brener`,
-    description: `Lisa Brener, author of Beauty Laid Bare, About, Excerpts, Photos, and Memoir.`,
-    author: `Lisa Brener`
+    title: `We Were Smiths: A Memoir | Lyn Gregory`,
+    description: `Lyn Gregory, author of We Wee Smiths: A Memoir, About, Excerpts, and Photos.`,
+    author: `Lyn Gregory`
   },
   plugins: [
     `gatsby-plugin-react-helmet`,

@@ -33,7 +33,7 @@ class memoir extends Component {
             <div
               className={`sethtml mem__herotext ${
                 this.state.loaded ? "loaded" : ""
-                }`}
+              }`}
               style={{ height: "85vh" }}
               dangerouslySetInnerHTML={{
                 __html: data.heroText.childContentfulRichText.html
