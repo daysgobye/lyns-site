@@ -3,6 +3,8 @@ import PropTypes from "prop-types";
 import Helmet from "react-helmet";
 import { StaticQuery, graphql } from "gatsby";
 
+import ogImage from "./ogImage.jpg";
+
 function SEO({ description, lang, meta, keywords, title, page }) {
   return (
     <StaticQuery
@@ -35,15 +37,13 @@ function SEO({ description, lang, meta, keywords, title, page }) {
                   property: `og:type`,
                   content: `website`
                 },
-                //we need a URL for this
-                // {
-                //   property: `og:url`,
-                //   content: `https://www.purpleandbold.com`
-                // },
-                // we need a URL for this, www.lisasurl.com/lisasurl_og.png will be the path for OG image 1200x630 is the best image size
+                {
+                  property: `og:url`,
+                  content: `https://www.lynsmithgregory.com`
+                },
                 {
                   property: `og:image`,
-                  content: `https://www.author.purpleandbold.gq/brener_og_banner_image.jpg`
+                  content: ogImage
                 },
                 {
                   name: `twitter:card`,
