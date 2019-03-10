@@ -39,6 +39,13 @@ module.exports = {
         accessToken: `2ce71a65ff3afeafc7bc94dd0b2679379d10b56892d83970d62b529b3be250c1`
       }
     },
+    {
+      resolve: `gatsby-plugin-google-analytics`,
+      options: {
+        trackingId: "UA-135931953-1",
+        head: false
+      }
+    },
     `@contentful/gatsby-transformer-contentful-richtext`,
     `gatsby-plugin-sharp`,
     `gatsby-transformer-sharp`,
