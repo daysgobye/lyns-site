@@ -15,8 +15,19 @@ class photoGallery extends Component {
     super(props);
     this.state = {};
   }
+
+  imgClasses(title) {
+    if (title === "full width") {
+      return "photogallery__container__grid__item__full";
+    } else if (title === "half width") {
+      return "photogallery__container__grid__item__half";
+    } else {
+      return "stu";
+    }
+  }
+
   render() {
-    const { data } = this.props;
+    const data = this.props.data;
     return (
       <div>
         <SEO page="Gallery" />
@@ -28,11 +39,9 @@ class photoGallery extends Component {
                 <div className="photogallery__container__grid">
                   {data.contentfulPhotoGallery.mainImageGallery.map(img => (
                     <div
-                      className={`photogallery__container__grid__item ${
-                        img.image.title === "full"
-                          ? "photogallery__container__grid__item__full"
-                          : " stu"
-                      }`}
+                      className={`photogallery__container__grid__item ${this.imgClasses(
+                        img.widths
+                      )}`}
                     >
                       <Img fluid={img.image.fluid} />
                       <p>{img.image.description}</p>
@@ -48,12 +57,6 @@ class photoGallery extends Component {
   }
 }
 
-// paperst6767
-// SerbianWinter888%#7
-
-// OneCommercial707
-// BladeRunnerk6767
-
 export const query = graphql`
   query {
     contentfulPhotoGallery {
@@ -63,7 +66,6 @@ export const query = graphql`
             ...GatsbyContentfulFluid_noBase64
           }
           description
-          title
         }
       }
     }
