@@ -70,7 +70,7 @@ export const query = graphql`
       mainImageGallery {
         size
         image {
-          fluid(maxWidth: 600) {
+          fluid(maxWidth: 1000) {
             ...GatsbyContentfulFluid_noBase64
           }
           description

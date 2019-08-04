@@ -5166,7 +5166,7 @@
     "contact-26a": "718/path---contact-26-a-cd9-nfefzPDSgpr12GCKoKyz7RSmtIA",
     "index": "252/path---index-6a9-h7yYlLXOHiSd8F2kG6Uu0IEO8gI",
     "dev-404-page-5f9": "920/path---dev-404-page-5-f-9-fab-NZuapzHg3X9TaN1iIixfv1W23E",
-    "photo-gallery-a9d": "615/path---photo-gallery-a-9-d-91d-FfEmTN3n38jf2d8OfaqhMa8mzA",
+    "photo-gallery-a9d": "456/path---photo-gallery-a-9-d-91d-BpbIAn29FYPMNM6yrlhViTF8",
     "memoir-3ad": "914/path---memoir-3-ad-a40-uBWgCCNT2f1NQ4fSiqPSaSad3U",
     "404-22d": "44/path---404-22-d-bce-NZuapzHg3X9TaN1iIixfv1W23E",
     "404-html-516": "164/path---404-html-516-62a-NZuapzHg3X9TaN1iIixfv1W23E",
@@ -5202,7 +5202,7 @@
       "componentPath": "/Users/coles/Documents/web-dev/react/lyns-site/src/pages/memoir.js"
     },
     "/Users/coles/Documents/web-dev/react/lyns-site/src/pages/photo-gallery.js": {
-      "query": "query usersColesDocumentsWebDevReactLynsSiteSrcPagesPhotoGalleryJs1146979736 {\n  contentfulPhotoGallery {\n    mainImageGallery {\n      size\n      image {\n        fluid(maxWidth: 600) {\n          ...GatsbyContentfulFluid_noBase64\n        }\n        description\n      }\n    }\n  }\n}\n\nfragment GatsbyContentfulFluid_noBase64 on ContentfulFluid {\n  aspectRatio\n  src\n  srcSet\n  sizes\n}\n",
+      "query": "query usersColesDocumentsWebDevReactLynsSiteSrcPagesPhotoGalleryJs2675926888 {\n  contentfulPhotoGallery {\n    mainImageGallery {\n      size\n      image {\n        fluid(maxWidth: 1000) {\n          ...GatsbyContentfulFluid_noBase64\n        }\n        description\n      }\n    }\n  }\n}\n\nfragment GatsbyContentfulFluid_noBase64 on ContentfulFluid {\n  aspectRatio\n  src\n  srcSet\n  sizes\n}\n",
       "componentPath": "/Users/coles/Documents/web-dev/react/lyns-site/src/pages/photo-gallery.js"
     }
   },
