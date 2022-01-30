@@ -85,19 +85,15 @@ class Footer extends Component {
           </div>
         </div>
         <div className="icons">
-          <a href={`"mailto:${data.contatEmail}`}>
+          <a target="_blank" href={`mailto:${data.contactEmail}`}>
             {" "}
             <img src={email} width="17" height="17" alt="email icon" />
           </a>
-          <a href={data.faceBookLink}>
+          <a target="_blank" href={data.faceBookLink}>
             {" "}
             <img src={facbook} width="17" height="17" alt="facebook logo" />
           </a>
-          <a href={data.twitterLink}>
-            {" "}
-            <img src={twitter} width="17" height="17" alt="twitter logo" />
-          </a>
-          <a href={data.instagramkLink}>
+          <a target="_blank" href={data.instagramLink}>
             {" "}
             <img src={instagram} width="17" height="17" alt="instagram logo" />
           </a>

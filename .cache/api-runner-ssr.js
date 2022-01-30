@@ -1,11 +1,11 @@
 var plugins = [{
-      plugin: require('/Users/coles/Documents/web-dev/react/lyns-site/node_modules/gatsby-plugin-react-helmet/gatsby-ssr'),
+      plugin: require('/home/cole/Documents/web-dev/react/lyns-site/node_modules/gatsby-plugin-react-helmet/gatsby-ssr'),
       options: {"plugins":[]},
     },{
-      plugin: require('/Users/coles/Documents/web-dev/react/lyns-site/node_modules/gatsby-plugin-manifest/gatsby-ssr'),
+      plugin: require('/home/cole/Documents/web-dev/react/lyns-site/node_modules/gatsby-plugin-manifest/gatsby-ssr'),
       options: {"plugins":[],"name":"gatsby-starter-default","short_name":"starter","start_url":"/","background_color":"#ffffff","theme_color":"#404040","display":"minimal-ui","icon":"src/images/favicon-32x32.png"},
     },{
-      plugin: require('/Users/coles/Documents/web-dev/react/lyns-site/node_modules/gatsby-plugin-google-analytics/gatsby-ssr'),
+      plugin: require('/home/cole/Documents/web-dev/react/lyns-site/node_modules/gatsby-plugin-google-analytics/gatsby-ssr'),
       options: {"plugins":[],"trackingId":"UA-135931953-1","head":false},
     }]
 // During bootstrap, we write requires at top of this file which looks like:
