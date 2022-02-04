@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: `We Were Smiths: A Memoir | Lyn Gregory`,
-    description: `Lyn Gregory, author of We Wee Smiths: A Memoir, About, Excerpts, and Photos.`,
+    description: `We Were Smiths:Falling From Grace.`,
     author: `Lyn Gregory`
   },
   plugins: [
