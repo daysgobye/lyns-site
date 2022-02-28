@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `We Were Smiths: A Memoir | Lyn Gregory`,
+    title: `We Were Smiths: Falling From Grace`,
     description: `We Were Smiths:Falling From Grace.`,
     author: `Lyn Gregory`
   },
